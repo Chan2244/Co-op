@@ -1,0 +1,7 @@
+body, ul, li, h1, h2, a{
+    marign: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
