@@ -7,9 +7,23 @@ body{
     padding: 20px;
 }
 
-nav .li{
+nav {
     border: blue;
     border-radius: 2px;
     border-width: medium;
     border-style: solid;
+    text-align: center; 
+}
+
+header {
+    text-align: center;
+}
+
+img{
+    max-width: auto;
+    max-height: auto;
+}
+
+footer{
+    color: red;
 }
